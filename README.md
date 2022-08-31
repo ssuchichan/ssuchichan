@@ -1,6 +1,6 @@
 ### Hi there 👋
-👋 Hi, I’m @ssuchichan
-👀 I’m interested in distribute system, blockchain, web backend and GUI.
+- 👋 Hi, I’m @ssuchichan
+- 👀 I’m interested in distribute system, blockchain, web backend and GUI.
 
 <a href="/">
   <img height="230em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ssuchichan&theme=github">
