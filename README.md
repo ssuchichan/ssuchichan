@@ -1,4 +1,3 @@
-### Hi there 👋
 - 👋 Hi, I’m @ssuchichan
 - 👀 I’m interested in distribute system, blockchain, web backend and GUI.
 
