@@ -2,7 +2,7 @@
 - 👀 I’m interested in distribute system, blockchain, web backend and GUI.
 
 <a href="/">
-  <img height="230em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ssuchichan&theme=github">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=ssuchichan&layout=compact&langs_count=8"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ssuchichan&theme=github">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ssuchichan&layout=compact&langs_count=8"/>
 </a>
 
